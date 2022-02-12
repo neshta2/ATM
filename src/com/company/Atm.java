@@ -2,6 +2,7 @@ package com.company;
 
 import java.math.BigDecimal ;
 
+
 public class Atm {
     private Card card;
 
